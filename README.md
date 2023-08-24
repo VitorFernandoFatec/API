@@ -35,7 +35,7 @@ Sprint | Previsão | Status| Histórico|
 Futuramente
 
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://github.com/VitorFernandoFatec/API/blob/main/Sprint%201/imagem/framengo.jpg"/>
 </p>
 
 # Equipe
